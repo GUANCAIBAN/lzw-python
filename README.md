@@ -1,4 +1,4 @@
-# lzw
+# lzw-python
 A minimalistic [LZW](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch) implementation in Python 3, compatible with Unix [compress](https://en.wikipedia.org/wiki/Compress) program (typically **.Z** extension).
 
 ## Usage
